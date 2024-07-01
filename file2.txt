@@ -1,0 +1,3 @@
+I found the ans for the qsn in file1 
+Without adding we cannot commit the changes
+That means,we need to defineitely push the files into staging area ad then we need to commit
